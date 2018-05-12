@@ -1,0 +1,27 @@
+_repo: Historic-FredericksburgThe-Story-of-an-Old-Town_39403
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39403-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goolrick, John T. (John Tackett)
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '40004'
+    url: http://www.gutenberg.org/2009/agents/40004
+description: ''
+gutenberg_issued: '2012-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39403'
+  lccn: '22010399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Fredericksburg (Va.) -- History'
+title: 'Historic Fredericksburg: The Story of an Old Town'
+url: http://www.gutenberg.org/ebooks/39403
